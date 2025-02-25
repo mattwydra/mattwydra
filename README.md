@@ -61,16 +61,16 @@ Hello! Thanks for visiting my profile page. I'm Matt Wydra, and I'm passionate a
 # Featured Projects
 
 ## [Minigames](https://mattwydra.github.io/projects/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattwydra&repo=projects&theme=tokyonight)](https://github.com/mattwydra/projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattwydra&repo=projects&theme=tokyonight&description_lines_count)](https://github.com/mattwydra/projects)
 
 ## [Firefox Extension](https://mattwydra.github.io/newtab-background/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattwydra&repo=newtab-background&theme=tokyonight)](https://github.com/mattwydra/newtab-background)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattwydra&repo=newtab-background&theme=tokyonight&description_lines_count)](https://github.com/mattwydra/newtab-background)
 
 ## [AI-Based Media Recommendation](https://mattwydra.github.io/LLM-integration/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattwydra&repo=LLM-integration&theme=tokyonight)](https://github.com/mattwydra/LLM-integration)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattwydra&repo=LLM-integration&theme=tokyonight&description_lines_count)](https://github.com/mattwydra/LLM-integration)
 
 ## [Discord Bots](https://github.com/mattwydra/discord_bots/blob/main/README.md)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattwydra&repo=discord_bots&theme=tokyonight)](https://github.com/mattwydra/discord_bots)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattwydra&repo=discord_bots&theme=tokyonight&description_lines_count)](https://github.com/mattwydra/discord_bots)
 
 ---
 
