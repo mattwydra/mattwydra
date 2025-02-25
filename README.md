@@ -50,6 +50,8 @@ Hello! Thanks for visiting my profile page. I'm Matt Wydra, and I'm passionate a
 ---
 
 # GitHub Stats
+(GitHub API sometimes breaks with this. If it doesn't show a graphic, it might be temporarily down)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mattwydra&theme=radical)
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattwydra&show_icons=true&count_private=true&theme=radical)-->
 
